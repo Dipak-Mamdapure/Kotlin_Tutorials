@@ -53,3 +53,15 @@ If you like a “hands-on” learning, try Kotlin Koans online(https://kotlinlan
 If you are using the command line compiler, start with Working with the Command Line Compiler(https://kotlinlang.org/docs/tutorials/command-line.html) and then work your way through the Kotlin Koans(https://kotlinlang.org/docs/tutorials/koans.html).
 
 If you are using IntelliJ IDEA, start with Getting Started(https://kotlinlang.org/docs/tutorials/getting-started.html) and then work your way through the Kotlin Koans(https://kotlinlang.org/docs/tutorials/koans.html).
+
+# How you can learn it?
+I know you all are really excited to start learning Kotlin from beginning , even i am also very excited to share my tutorials with you all , and I am trying to make things very very simple and understandable to all of you.
+
+Be touch with me, i am starting Kotin with intial tutorial on Github and YouTube Channel as well.
+you all will get the source code from github repository here and video demos and step by step in depth explanation on youtube channel.
+
+# announcements
+Very Soon I am statring youtube channel for following Programming Part.
+1. Kotlin for beginners
+2. Android With Kotlin
+3. Let You know after start.
