@@ -43,3 +43,13 @@ several Cool Features Of Kotlin That’ll Make It Your Next Favorite Programming
 8.  Default and named arguments
 9.  Data class
 10. Kotlin compiles to JVM bytecode or JS
+
+# How to get Started ?
+
+A series of complete step-by-step tutorials to walk you through how to accomplish different tasks in Kotlin, from Getting Started to writing Android applications and more. If you have a tutorial you'd like featured here, please let us know. We'll be happy to host it and give credit!
+
+If you like a “hands-on” learning, try Kotlin Koans online(https://kotlinlang.org/docs/tutorials/koans.html) to get familiar with Kotlin.
+
+If you are using the command line compiler, start with Working with the Command Line Compiler(https://kotlinlang.org/docs/tutorials/command-line.html) and then work your way through the Kotlin Koans(https://kotlinlang.org/docs/tutorials/koans.html).
+
+If you are using IntelliJ IDEA, start with Getting Started(https://kotlinlang.org/docs/tutorials/getting-started.html) and then work your way through the Kotlin Koans(https://kotlinlang.org/docs/tutorials/koans.html).
