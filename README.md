@@ -1,6 +1,7 @@
 # DeepakM_Kotlin_Tutorials
 
 Kotlin is a programming language developed by JetBrains for modern multiplatform applications.
+
 100% interoperable with Java™ and Android™
 
 In this comprehensive guide, you will see information on:
