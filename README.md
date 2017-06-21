@@ -1,4 +1,4 @@
-# DeepakM_Kotlin_Tutorials
+# Kotlin_Tutorials
 
 Kotlin is a programming language developed by JetBrains for modern multiplatform applications.
 
